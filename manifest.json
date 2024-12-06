@@ -1,7 +1,12 @@
 {
   "version": 1,
+<<<<<<< HEAD
   "locale": "en_US",
   "platform": "4.4.0",
+=======
+  "locale": "C",
+  "platform": "4.2.3",
+>>>>>>> b6cc496 (Initial commit)
   "metadata": {
     "appmode": "quarto-static",
     "primary_rmd": "index.qmd",
