@@ -1,12 +1,7 @@
 {
   "version": 1,
-<<<<<<< HEAD
-  "locale": "en_US",
-  "platform": "4.4.0",
-=======
   "locale": "C",
   "platform": "4.2.3",
->>>>>>> b6cc496 (Initial commit)
   "metadata": {
     "appmode": "quarto-static",
     "primary_rmd": "index.qmd",
@@ -27,7 +22,7 @@
       "checksum": "b3260e8597e68ac0d3a7951d26a2e945"
     },
     "index.qmd": {
-      "checksum": "8fa0570d6cc924bf8781585d142412d3"
+      "checksum": "6dc86d3f35c7a71cea3c341ebc08f183"
     },
     "styles.css": {
       "checksum": "e31c3cdea03dfab8a29456978017bd10"
